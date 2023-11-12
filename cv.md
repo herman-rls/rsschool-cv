@@ -20,6 +20,7 @@ JS, PHP, Python, SQL (PostgreSQL, Postgis), Bash/BAT,
 ## Code examples 
 ```
 Some my gis-portal code examples here
+Codewars tasks
 ```
 ## Work exp 
 **
