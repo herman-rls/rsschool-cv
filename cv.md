@@ -1,18 +1,30 @@
-# Full-stack developer
+# Full-stack Web-GIS developer
 ## Herman Milevskij
 
 
-2. ## Contacts: 2
+ ## Contacts: 
 *Email:*
 force13rls@gmail.com
 
 *Telegram:*
 @german_mil
 
-3. (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills 3
-4. Skills 4 
-5. Code exemples 5
-6. Work exp 6
-*What i have done*
-7. Education 7
-8.English 8 
+##(your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills 
+**3 years web-gis expirience**
+** PostGis **
+** Python and Bash scripting**
+
+##Skills 
+JS, PHP, Python, SQL (PostgreSQL, Postgis, Bash/
+## Code exemples 
+```
+Some my gis-portal code examples here
+```
+## Work exp 
+**
+## Education 
+**BSU(Minsk, Belarus) 2021 **
+** Geoinformatics faculty **
+**Gis-technology specialist **
+##English level
+** B1+ English level**
