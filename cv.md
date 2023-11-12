@@ -13,10 +13,11 @@ force13rls@gmail.com
 **3 years web-gis expirience**
 ** PostGis **
 ** Python and Bash scripting**
+**English B1+ **
 
 ##Skills 
-JS, PHP, Python, SQL (PostgreSQL, Postgis, Bash/
-## Code exemples 
+JS, PHP, Python, SQL (PostgreSQL, Postgis), Bash/BAT, 
+## Code examples 
 ```
 Some my gis-portal code examples here
 ```
