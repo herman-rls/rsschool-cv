@@ -25,7 +25,7 @@ Some my gis-portal code examples here
 **
 ## Education 
 
-*** BSU(Minsk, Belarus) 2021 ***
+*** 2021 BSU(Minsk, Belarus) ***
 
 ** Geoinformatics faculty **
 
