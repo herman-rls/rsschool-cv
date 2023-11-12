@@ -23,8 +23,12 @@ Some my gis-portal code examples here
 ## Work exp 
 **
 ## Education 
+
 **BSU(Minsk, Belarus) 2021 **
+
 ** Geoinformatics faculty **
+
 **Gis-technology specialist **
+
 ##English level
 ** B1+ English level**
