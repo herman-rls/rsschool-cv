@@ -1,0 +1,7 @@
+body {
+    background-color: bisque;
+}
+#main-div {
+    text-align: center;
+    border: 2px solid grey;
+}
